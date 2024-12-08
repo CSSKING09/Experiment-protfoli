@@ -835,3 +835,6 @@ footer .text span a:hover{
 .card__button i {
     font-size: 13px;
 }
+.none {
+    display: none;
+}
