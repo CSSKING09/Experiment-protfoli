@@ -148,7 +148,7 @@ img {
 /* Break points */
 
 
-/* @media screen and (max-width: 340px) {
+@media screen and (max-width: 340px) {
     .container {
         margin-inline: 1rem;
     }
@@ -180,7 +180,7 @@ img {
         width: 316px;
         padding-inline: 2.5rem;
     }
-}  */
+} 
 /* my projects end contact */
 html {
     scroll-behavior: smooth;
